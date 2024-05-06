@@ -64,7 +64,6 @@ RegisterNumber:  212222040184
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
 ![Screenshot 2024-03-04 144352](https://github.com/yuvarajmonarch/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122221735/8dafef2a-bfee-4144-aa0a-1a553f93ab5e)
 ![Screenshot 2024-03-04 144405](https://github.com/yuvarajmonarch/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122221735/edf19e3b-d4d0-42d5-be58-c2d578a73afd)
 ![Screenshot 2024-03-04 144423](https://github.com/yuvarajmonarch/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122221735/9f6be3b9-3b62-4ad9-8d99-231a5270f28b)
